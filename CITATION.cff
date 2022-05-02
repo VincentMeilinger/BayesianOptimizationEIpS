@@ -5,6 +5,6 @@ authors:
   given-names: "Vincent"
 title: "Bayesian Optimization under correlated evaluation costs, using the EIpS acquisition function"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2022-05-06
+doi: 
+date-released: 2022-05-03
 url: "https://github.com/VincentMeilinger/BayesianOptimizationEIpS"
